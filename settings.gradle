@@ -1,0 +1,2 @@
+rootProject.name='Easy PDF Reader'
+include ':app'
